@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuestionario</string>
+    <string name="check">Comprueba</string>
+    <string name="question">Pregunta</string>
+    <string name="question_content">¿ Cuál es la capital de Dinamarca ?</string>
+    <array name="answers">
+        <item>Copenhague</item>
+        <item>Oslo</item>
+        <item>Helsinki</item>
+        <item>Ninguna de las anteriores</item>
+    </array>
+    <string name="correct_ans">Respuesta correcta !</string>
+    <string name="incorrect_ans">Respuesta incorrecta :(</string>
+    <string name="no_ans">Selecciona una respuesta</string>
+</resources>

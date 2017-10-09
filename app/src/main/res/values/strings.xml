@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check">Check</string>
+    <string name="question">Question</string>
+    <string name="question_content">What is the capital of Denmark</string>
+    <string name="correct_ans">Correct answer !</string>
+    <string name="incorrect_ans">Incorrect answer :(</string>
+    <string name="no_ans">Select an answer</string>
+
+    <array name="answers">
+        <item>Copenhagen</item>
+        <item>Helsinki</item>
+        <item>Oslo</item>
+        <item>None of the previous</item>
+    </array>
+    <integer name="correct_answer">0</integer>
+
+</resources>
